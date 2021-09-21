@@ -2,12 +2,12 @@
 <a href="https://github.com/EWE07">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=black"/>
 </a>
-<br><br>
-I'm Back End Developer & Discord Bot Developer from Brazil 🇧🇷
+<br>
 
 ## 📑 Information
-
-- Nothing around here... 
+-  Brazilian :brazil:
+-  Back End Developer
+-  Currently working on [Zero](https://github.com/EWE07/Zero)
 
 ## 👨‍💻 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
