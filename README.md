@@ -7,7 +7,7 @@
 ## 📑 Information
 -  Brazilian :brazil:
 -  Back End Developer
--  Currently working on [Zero](https://github.com/EWE07/Zero)
+-  Currently working on nothing 
 
 ## 👨‍💻 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
