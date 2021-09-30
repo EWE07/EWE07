@@ -26,8 +26,4 @@
 ![Deno](https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<details>
-<summary>Stats</summary>
-
 ![stats](https://github-readme-stats.vercel.app/api?username=EWE07&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
-</details>
